@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> from sai the great sorry the future superstar now the changes along with details.
+          Edit <code>src/App.js</code> new webhook attached lets see.
         </p>
         <a
           className="App-link"
